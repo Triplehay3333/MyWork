@@ -1,0 +1,32 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  min-width:100%;
+  min-height:100%;
+  font: Arial 14px;
+}
+#logo{
+    margin:5px;
+   border-radius:100%;
+}
+p{
+    font-family:monospace;
+     font-weight:bold;
+  font-size:20px;
+     
+}
+#sizes{
+       margin:5px;
+      margin-left:20px;
+}
+strong{
+   margin-left:80px;
+  font-size:25px;
+}
+#body{
+     margin-left:10px;
+}
+td{
+    text-align:center;
+  margin-left:60px;
+}
